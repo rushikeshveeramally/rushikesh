@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rushikesh/static/css/main.d4d62046.chunk.css",
+    "main.js": "/rushikesh/static/js/main.2a8e135c.chunk.js",
+    "main.js.map": "/rushikesh/static/js/main.2a8e135c.chunk.js.map",
+    "runtime-main.js": "/rushikesh/static/js/runtime-main.a2b2ab5b.js",
+    "runtime-main.js.map": "/rushikesh/static/js/runtime-main.a2b2ab5b.js.map",
+    "static/js/2.44bb0385.chunk.js": "/rushikesh/static/js/2.44bb0385.chunk.js",
+    "static/js/2.44bb0385.chunk.js.map": "/rushikesh/static/js/2.44bb0385.chunk.js.map",
+    "index.html": "/rushikesh/index.html",
+    "precache-manifest.cf0abe43d5f5aef132df4ff10ad435ec.js": "/rushikesh/precache-manifest.cf0abe43d5f5aef132df4ff10ad435ec.js",
+    "service-worker.js": "/rushikesh/service-worker.js",
+    "static/css/main.d4d62046.chunk.css.map": "/rushikesh/static/css/main.d4d62046.chunk.css.map",
+    "static/js/2.44bb0385.chunk.js.LICENSE.txt": "/rushikesh/static/js/2.44bb0385.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rushikesh/static/media/jeshoots-com-pUAM5hPaCRI-unsplash.031f24e0.jpg",
+    "static/media/logo.svg": "/rushikesh/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2b2ab5b.js",
+    "static/js/2.44bb0385.chunk.js",
+    "static/css/main.d4d62046.chunk.css",
+    "static/js/main.2a8e135c.chunk.js"
+  ]
+}
